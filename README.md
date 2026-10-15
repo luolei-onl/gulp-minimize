@@ -52,3 +52,4 @@ MIT License (Expat)
 [npm-image]: http://img.shields.io/npm/v/gulp-minimize.svg?style=flat
 [travis-url]: https://travis-ci.org/foru17/gulp-minimize
 [travis-image]: https://travis-ci.org/foru17/gulp-minimize.svg?branch=master
+
